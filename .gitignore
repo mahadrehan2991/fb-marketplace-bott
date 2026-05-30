@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# User session profiles (highly sensitive! contains Facebook logins/cookies)
+fb_profile/
+
+# Error screenshots
+error_item_*.png
+error_*.png
+
+# Large image directories (product images)
+images/
+"iphone images"/
+iphone images/
+
+# Local configuration
+.env
+.venv/
+env/
+venv/
